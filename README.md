@@ -27,6 +27,10 @@
   - Consistent dark palette with blue highlights  
   - GUI remembers your last settings (`settings.json`)
 
+<img width="1920" height="1080" alt="Screenshot_2025-08-21_23_15_32" src="https://github.com/user-attachments/assets/0decd907-087d-4e7f-8ba6-a509e280c439" />
+
+<img width="1920" height="1080" alt="Screenshot_2025-08-22_17_01_07" src="https://github.com/user-attachments/assets/765a6261-1991-44d2-a049-3f9e5f923959" /> 
+
 ---
 
 ## 🛠 Install & Run
